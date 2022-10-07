@@ -1,0 +1,58 @@
+Lathund för grundläggande terminalkommandon i Linux/Unix 
+========================================================
+
+$ cat           Visar innehållet av en fil
+$ cd ~           till hemkatalogen
+$ cd            Navigera bland directories
+$ cp            Kopiera filer eller directories
+$ ctrl +c       Avbryt ett kommando
+$ date          Visar serverns/datorns systemtid
+$ free          Visar tillgänglig och upptaget minne
+$ --help/-h     Visar hjälp om kommandot
+$ history       Visa historik av inmatade kommandon
+$ ip add        Visar nätverksinterface
+$ less          Scrolla genom innehållet
+$ ls -lah       Lista filer
+$ man           Manual för alla commandon
+$ mkdir         Skapa directory
+$ mv            Flytta filer eller directories
+$ ping          Pingar en server
+$ pwd           Visar vart man befinner sig i filhierarkin
+$ reboot        Starta om Server
+$ rm -r         Tar bort recursivly
+$ rm            Tar bort en fil
+$ shutdown      Stäng ner server
+$ sudo          "super user do" Kör comando som super user
+$ touch         Create an empty file
+
+$ ln -s         Skapa en symbolisk länk
+$ ln            Skapa en hård länk
+
+$ useradd       Skapa en användare
+$ passwd        Ändra lösenorder för en användare
+$ groupadd      Skapa en användargrupp
+$ usermod -a -G lägg till en användare till en grupp
+
+$ chmod         Ändra rättigheterna till en fil
+$ chown         Ändra ägarskapet till en fil
+
+$ clear         Rensar skärmen
+$ ctrl +d       exit/avsluta terminalen
+$ ctrl +r       Sök i historiken
+$ exit          avsluta terminalen
+$ head          Visa toppen av en fil
+$ more          Scrolla genom innehållet
+$ stat          Visa information om en fil
+$ tail          Visa botten av en fil
+$ uptime        Visar hur länge servern varit igång
+$ users         Visar inloggade användare
+$ --version/-v  Visar versionen av kommandot
+
+$ df -h         Visar alla mountade diskar
+$ du -sh        Visar uptagen disk för filer och directories
+$ uname         Information om Linux installationen
+
+$ lsblk         Lista alla enheter för block storage
+$ fdisk         Hantera diskpartitioner
+$ mkfs          Formatera en partition
+$ mount         Mounta en partition till filstrukturen
